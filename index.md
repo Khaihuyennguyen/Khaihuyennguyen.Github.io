@@ -9,7 +9,7 @@
 
 
 #### [Austin_Air_BnB_price_per_night_prediction](/Austin_Air_BnB_price_per_night_prediction.md)
-<img src="images/Austin_Air_BnB.jpg"/>
+<img src="images/Austin_Air_BnB.png"/>
 Location, location, location
 
 
