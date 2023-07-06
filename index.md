@@ -1,6 +1,6 @@
 # My Projects
 
-##### This page is created to record all of my works. Please refer the my github page or website for highlighted projects
+##### This page is created to record all of my Data Science's Projects. Please refer this [website: khai.one](https://khai.one/) for creative computing projects
 
 ---
 ## Data Science
