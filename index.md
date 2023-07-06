@@ -9,7 +9,7 @@
 ---
 
 ---
-## [Eat-Out-Worry-Free](https://eat-out-worry-free-gc3on1p45.streamlit.app/))
+## [Eat-Out-Worry-Free](https://eat-out-worry-free-gc3on1p45.streamlit.app/)
 <img src="images/Austin_Air_BnB.png"/>
 # An awesome tool for you to order when you on diet and eating out!
 ---
