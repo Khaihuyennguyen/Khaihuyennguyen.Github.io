@@ -4,9 +4,9 @@
 
 ---
 ## Data Science
-## [Austin_Air_BnB_price_per_night_prediction](/Austin_Air_BnB_price_per_night_prediction.md)
+## [Austin_Air_BnB_price_per_night_prediction](https://github.com/Khaihuyennguyen/Austin_Air_BnB_price_per_night_prediction)
 <img src="images/Austin_Air_BnB.png"/>
-Location, location, location
+# Location, location, location
 
 
 ---
