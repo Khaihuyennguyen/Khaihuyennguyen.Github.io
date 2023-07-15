@@ -14,9 +14,13 @@
 # An awesome tool for you to order when you on diet and eating out!
 ---
 
-#### [Education Project]
+## [Austin Temperature Time Series Prediction](https://eat-out-worry-free-gc3on1p45.streamlit.app/)
+<img src="images/Austin_temp.png"/>
+# Exploring the time series data from https://www.ncei.noaa.gov/ for highest temperature in Austin, Texas. This also create linear model to predict temperature readings.
 
 ---
 
+#### [Education Project]
 
+---
 
