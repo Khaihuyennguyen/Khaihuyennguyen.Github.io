@@ -1,19 +1,31 @@
-## This can be a template for an internal prject
+## This can be your internal website page / project page
 
-**Project description:** You can use this template to create projects in the future. Simply duplicate the page and change the text and images. 
+**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Be sure to follow *The Interesting Project Template* as shown in [**The Data Science Project Studio**](https://www.datacareerjumpstart.com/products/the-data-science-project-studio/categories/2150357707/posts/2158441592). 
+### 1. Suggest hypotheses about the causes of observed phenomena
 
-### 1. You can have sections and text.
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-Just like this. And you can even add internal coding blocks
-
-```python
-print('this is the python code I used to solve this problem')
+```javascript
+if (isAwesome){
+  return true
+}
 ```
 
-### 2. You can add any images you'd like. 
+### 2. Assess assumptions on which statistical inference will be based
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
+### 3. Support the selection of appropriate statistical tools and techniques
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+### 4. Provide a basis for further data collection through surveys or experiments
 
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
