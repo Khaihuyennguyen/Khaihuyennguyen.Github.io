@@ -5,18 +5,18 @@
 ---
 ## [Austin_Air_BnB_price_per_night_prediction](https://github.com/Khaihuyennguyen/Austin_Air_BnB_price_per_night_prediction)
 <img src="images/Austin_Air_BnB.png"/>
-# Location, location, location
+Location, location, location
 ---
 
 ---
 ## [Eat-Out-Worry-Free](https://eat-out-worry-free.streamlit.app/)
 <img src="images/ham.jpg"/>
-# An awesome tool for you to order when you on diet and eating out!
+An awesome tool for you to order when you on diet and eating out!
 ---
 
 ## [Austin Temperature Time Series Prediction](https://github.com/Khaihuyennguyen/Austin_Temp_Linear_Regression)
 <img src="images/Austin_temp.png"/>
-# Exploring the time series data from https://www.ncei.noaa.gov/ for highest temperature in Austin, Texas. This also create linear model to predict temperature readings.
+Exploring the time series data from https://www.ncei.noaa.gov/ for highest temperature in Austin, Texas. This also create linear model to predict temperature readings.
 
 ---
 
