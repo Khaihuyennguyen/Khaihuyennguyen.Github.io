@@ -27,7 +27,7 @@ Obtained the air quality data for Austin, which includes pollutants like PM2.5, 
 ---
 
 ---
-[Dataset Augmentation with GAN](https://colab.research.google.com/drive/1pIBDD6HrPIwB0ygjy8mtSUYphyWOfxTq?usp=sharing)
+## [Dataset Augmentation with GAN](https://github.com/Khaihuyennguyen/Dataset_Augmentation_with_GANs)
 <img src="images/GAN_aug.png"/>
 Developed a GAN from scratch using PyTorch and Matplotlib for dataset augmentation, optimizing generator's output distribution with automatic differentiation to enhance AI model performance through data enrichment
 
