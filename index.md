@@ -25,7 +25,12 @@ Exploring the time series data from https://www.ncei.noaa.gov/ for highest tempe
 <img src="images/ARMA_Austin.png"/>
 Obtained the air quality data for Austin, which includes pollutants like PM2.5, from reliable sources https://aqs.epa.gov/aqsweb/documents/data_api.html. My project demonstrated a thorough and systematic approach to analyzing air quality data using time series models. I covered critical aspects of the analysis, including data preparation, modeling, and evaluation. My insights can be valuable for understanding air quality trends in Austin and potentially for making informed predictions. I'm pleased with completing such a comprehensive project!
 ---
+
 ---
+[Dataset Augmentation with GAN](https://colab.research.google.com/drive/1pIBDD6HrPIwB0ygjy8mtSUYphyWOfxTq?usp=sharing)
+<img src="images/GAN_aug.png"/>
+Developed a GAN from scratch using PyTorch and Matplotlib for dataset augmentation, optimizing generator's output distribution with automatic differentiation to enhance AI model performance through data enrichment
+
 #### [Education Project]
 
 ---
